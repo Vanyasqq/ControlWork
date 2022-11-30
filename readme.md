@@ -14,4 +14,5 @@
 3. Строка 45. Печатаем массив SourceArray.
 4. Строка 46. Печатаем массив ReceivedArray.
 
+
 ![Блок схема](ControlWorkScheme.jpg)
